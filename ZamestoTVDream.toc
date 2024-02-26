@@ -1,0 +1,11 @@
+## Interface: 100205
+## Title: ZamestoTV Dream
+## Title-ruRU: ZamestoTV Сновидения во Сне
+## Notes: World Quests Dreaming in the Dream
+## Notes-ruRU: Локальное задание Сновидения во Сне
+## Author: Horgul and Dathwada
+## IconTexture: Interface\HELPFRAME\HelpIcon-KnowledgeBase.blp
+## Version: 1.22
+
+db.lua
+zamro.lua
